@@ -14,4 +14,4 @@ My research interest is focused on accelerated MRI reconstruction using deep lea
 
 News & Updates
 ------
-- **[2023.10]** We secured 1st place in both Cine and T1/T2 Mapping reconstruction tasks in [CMRxRecon Challenge](https://cmrxrecon.github.io/) during MICCAI 2023! [[Paper](https://arxiv.org/abs/2309.13839)][[Code]]()[[Final Ranking]](https://www.synapse.org/#!Synapse:syn51471091/wiki/624102)
+- **[2023.10]** We secured 1st place in both the Cine and T1/T2 Mapping tasks for cardiac MR reconstruction in the [CMRxRecon Challenge](https://cmrxrecon.github.io/) during MICCAI 2023! [[Paper](https://arxiv.org/abs/2309.13839)] [[Code](https://github.com/hellopipu/PromptMR)] [[Final Ranking](https://www.synapse.org/#!Synapse:syn51471091/wiki/624102)]
