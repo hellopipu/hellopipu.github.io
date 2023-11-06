@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student in the [Computer Science Department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/). , advised by Prof. [Dimitris Metaxas](https://scholar.google.com/citations?user=a7VNhCIAAAAJ&hl=en&oi=sra). Before that, I received my master's degree from Tsinghua University and my bachelor's degree from Wuhan University in China.
+I am a fourth-year Ph.D. student in the [Computer Science Department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/), advised by Prof. [Dimitris Metaxas](https://scholar.google.com/citations?user=a7VNhCIAAAAJ&hl=en&oi=sra). Before that, I received my master's degree from Tsinghua University and my bachelor's degree from Wuhan University in China.
 
-My research interest is focused on accelerated MRI reconstruction using deep learning methods.
+My research interest is focused on accelerated MRI reconstruction using deep learning methods trained on large-scale datasets.
 
 News & Updates
 ------
