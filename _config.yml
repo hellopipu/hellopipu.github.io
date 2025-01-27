@@ -6,6 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+first_name: Bingyu
+last_name: Xin
+
 locale                   : "en-US"
 title                    : "Bingyu Xin"
 title_separator          : "-"
@@ -83,7 +86,7 @@ author:
   name             : "Bingyu Xin"
   avatar           : "profile.png"
   bio              : "Ph.D. student at Computer Science Department, Rutgers University"
-  location         : "Piscataway, NJ"
+  location         : "New Brunswick, NJ"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ENG4A1gAAAAJ&hl=en&oi=sra"
