@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 
 ---
+<span style="color:black;">
 I'm a Ph.D. student of the <a href="https://www.cs.rutgers.edu/" style="color:black; text-decoration:underline;">Department of Computer Science</a>
  at <a href="https://www.rutgers.edu/" style="color:black; text-decoration:underline;">Rutgers University</a>, advised by Prof. <a href="https://people.cs.rutgers.edu/~dnm/" style="color:black; text-decoration:underline;">Dimitris N. Metaxas</a>. My current research focuses on <u>accelerated MRI reconstruction</u> using deep learning methods trained on large-scale datasets. I'm also interested in <u>Generative AI</u> for medical imaging. Previously, I received my master degree from Tsinghua University in 2020 and my bachelor degree from Wuhan University in 2017.
-
+</span>
 
 ## Selected Publications
 
