@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bingyu Xin | 辛炳煜"
+title                    : "Bingyu Xin"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "I'm a fourth year Ph.D. student at Rutgers University"
+name                     : &name 
+description              : &description 
 url                      : https://hellopipu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hellopipu.github.io"
