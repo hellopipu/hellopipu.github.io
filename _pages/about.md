@@ -33,32 +33,28 @@ My current research focuses on **accelerated MRI reconstruction** using deep lea
 
 ## Selected Publications
 
-#### *Rethinking Deep Unrolled Model for Accelerated MRI Reconstruction*
-
-**Bingyu Xin**, Meng Ye, Leon Axel, and Dimitris N. Metaxas
-**European Conference on Computer Vision (ECCV)**, 2024 (**Oral**)
-[[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09565.pdf)] [[Code](https://github.com/hellopipu/PromptMR-plus)]
-
----
-
-#### *Fill the K-Space and Refine the Image: Prompting for Dynamic and Multi-Contrast MRI Reconstruction*
-
-**Bingyu Xin**, Meng Ye, Leon Axel, and Dimitris N. Metaxas
-**International Workshop on Statistical Atlases and Computational Models of the Heart (STACOM@MICCAI)**, 2023 (**MICCAI CMRxRecon Challenge Winner**)
-[[Paper](https://arxiv.org/pdf/2309.13839.pdf)] [[Code](https://github.com/hellopipu/PromptMR)]
+*Rethinking Deep Unrolled Model for Accelerated MRI Reconstruction*  
+**Bingyu Xin**, Meng Ye, Leon Axel, and Dimitris N. Metaxas  
+**European Conference on Computer Vision (ECCV)**, 2024 (**Oral**)  
+[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09565.pdf) · [Code](https://github.com/hellopipu/PromptMR-plus)
 
 ---
 
-#### *Learned Half-Quadratic Splitting Network for MR Image Reconstruction*
-
-**Bingyu Xin**, Timothy Phan, Leon Axel, and Dimitris Metaxas
-**International Conference on Medical Imaging with Deep Learning (MIDL)**, 2022
-[[Paper](https://proceedings.mlr.press/v172/xin22a/xin22a.pdf)] [[Code](https://github.com/hellopipu/HQS-Net)]
+*Fill the K-Space and Refine the Image: Prompting for Dynamic and Multi-Contrast MRI Reconstruction*  
+**Bingyu Xin**, Meng Ye, Leon Axel, and Dimitris N. Metaxas  
+**International Workshop on Statistical Atlases and Computational Models of the Heart (STACOM@MICCAI)**, 2023 (**MICCAI CMRxRecon Challenge Winner**)  
+[Paper](https://arxiv.org/pdf/2309.13839.pdf) · [Code](https://github.com/hellopipu/PromptMR)
 
 ---
 
-#### *Multi-modality Generative Adversarial Networks with Tumor Consistency Loss for Brain MR Image Synthesis*
+*Learned Half-Quadratic Splitting Network for MR Image Reconstruction*  
+**Bingyu Xin**, Timothy Phan, Leon Axel, and Dimitris Metaxas  
+**International Conference on Medical Imaging with Deep Learning (MIDL)**, 2022  
+[Paper](https://proceedings.mlr.press/v172/xin22a/xin22a.pdf) · [Code](https://github.com/hellopipu/HQS-Net)
 
-**Bingyu Xin**, Yifan Hu, Yefeng Zheng, and Hongen Liao
-**IEEE International Symposium on Biomedical Imaging (ISBI)**, 2020
-[[Paper](https://ieeexplore.ieee.org/abstract/document/9098449/)] [[Code](https://github.com/hellopipu/TC-MGAN)]
+---
+
+*Multi-modality Generative Adversarial Networks with Tumor Consistency Loss for Brain MR Image Synthesis*  
+**Bingyu Xin**, Yifan Hu, Yefeng Zheng, and Hongen Liao  
+**IEEE International Symposium on Biomedical Imaging (ISBI)**, 2020  
+[Paper](https://ieeexplore.ieee.org/abstract/document/9098449/) · [Code](https://github.com/hellopipu/TC-MGAN)
