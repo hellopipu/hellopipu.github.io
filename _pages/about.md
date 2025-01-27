@@ -14,6 +14,10 @@ I'm a Ph.D. student of the <a href="https://www.cs.rutgers.edu/" style="color:bl
 
 ## Selected Publications
 
+<a href="https://scholar.google.com/citations?user=ENG4A1gAAAAJ&hl=en&authuser=1" style="color:gray; text-decoration:none; font-weight:bold;">Google Scholar Profile</a>
+
+<!-- add new paper below here -->
+
 <span style="font-size:18px; font-weight:bold; font-style:italic;">Enhanced Deep Unrolled Models Applied to the CMRxRecon2024 Challenge</span>  
 <span style="font-size:16px; font-weight:normal;">**Bingyu Xin**, Meng Ye, Leon Axel, and Dimitris N. Metaxas</span>  
 <span style="font-size:14px; font-weight:lighter;">International Workshop on Statistical Atlases and Computational Models of the Heart (**STACOM@MICCAI**), 2024 (<span style="color:red;">MICCAI CMRxRecon 2024 Challenge Winner</span>)</span>  
@@ -21,7 +25,6 @@ I'm a Ph.D. student of the <a href="https://www.cs.rutgers.edu/" style="color:bl
 
 ---
 
-<a href="https://scholar.google.com/citations?user=ENG4A1gAAAAJ&hl=en&authuser=1" style="color:gray; text-decoration:none; font-weight:bold;">Google Scholar Profile</a>
 
 <span style="font-size:18px; font-weight:bold; font-style:italic;">Rethinking Deep Unrolled Model for Accelerated MRI Reconstruction</span>  
 <span style="font-size:16px; font-weight:normal;">**Bingyu Xin**, Meng Ye, Leon Axel, and Dimitris N. Metaxas</span>  
