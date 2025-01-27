@@ -8,15 +8,20 @@ redirect_from:
   - /about.html
 
 ---
-I'm a Ph.D. student of the <a href="https://www.cs.rutgers.edu/" style="color:gray; text-decoration:underline;">Department of Computer Science</a>
- at <a href="https://www.rutgers.edu/" style="color:gray; text-decoration:underline;">Rutgers University</a>, advised by Prof. <a href="https://people.cs.rutgers.edu/~dnm/" style="color:gray; text-decoration:underline;">Dimitris N. Metaxas</a>. My current research focuses on <u>accelerated MRI reconstruction</u> using deep learning methods trained on large-scale datasets. I'm also interested in <u>Generative AI</u> for medical imaging. Previously, I received my master degree from Tsinghua University in 2020 and my bachelor degree from Wuhan University in 2017.
+I'm a Ph.D. student of the <a href="https://www.cs.rutgers.edu/" style="color:black; text-decoration:underline;">Department of Computer Science</a>
+ at <a href="https://www.rutgers.edu/" style="color:black; text-decoration:underline;">Rutgers University</a>, advised by Prof. <a href="https://people.cs.rutgers.edu/~dnm/" style="color:black; text-decoration:underline;">Dimitris N. Metaxas</a>. My current research focuses on <u>accelerated MRI reconstruction</u> using deep learning methods trained on large-scale datasets. I'm also interested in <u>Generative AI</u> for medical imaging. Previously, I received my master degree from Tsinghua University in 2020 and my bachelor degree from Wuhan University in 2017.
 
-
----
 
 ## Selected Publications
 
-<a href="https://scholar.google.com/citations?user=ENG4A1gAAAAJ&hl=en&authuser=1" style="color:gray; text-decoration:none;">Google Scholar Profile</a>
+<span style="font-size:18px; font-weight:bold; font-style:italic;">Enhanced Deep Unrolled Models Applied to the CMRxRecon2024 Challenge</span>  
+<span style="font-size:16px; font-weight:normal;">**Bingyu Xin**, Meng Ye, Leon Axel, and Dimitris N. Metaxas</span>  
+<span style="font-size:14px; font-weight:lighter;">International Workshop on Statistical Atlases and Computational Models of the Heart (**STACOM@MICCAI**), 2024 (<span style="color:red;">MICCAI CMRxRecon 2024 Challenge Winner</span>)</span>  
+<span style="font-size:14px; font-weight:lighter;"><a href="" style="color:gray; text-decoration:underline;">Paper</a> · <a href="https://github.com/hellopipu/PromptMR-plus" style="color:gray; text-decoration:underline;">Code</a></span>
+
+---
+
+<a href="https://scholar.google.com/citations?user=ENG4A1gAAAAJ&hl=en&authuser=1" style="color:gray; text-decoration:none; font-weight:bold;">Google Scholar Profile</a>
 
 <span style="font-size:18px; font-weight:bold; font-style:italic;">Rethinking Deep Unrolled Model for Accelerated MRI Reconstruction</span>  
 <span style="font-size:16px; font-weight:normal;">**Bingyu Xin**, Meng Ye, Leon Axel, and Dimitris N. Metaxas</span>  
@@ -27,7 +32,7 @@ I'm a Ph.D. student of the <a href="https://www.cs.rutgers.edu/" style="color:gr
 
 <span style="font-size:18px; font-weight:bold; font-style:italic;">Fill the K-Space and Refine the Image: Prompting for Dynamic and Multi-Contrast MRI Reconstruction</span>  
 <span style="font-size:16px; font-weight:normal;">**Bingyu Xin**, Meng Ye, Leon Axel, and Dimitris N. Metaxas</span>  
-<span style="font-size:14px; font-weight:lighter;">International Workshop on Statistical Atlases and Computational Models of the Heart (**STACOM@MICCAI**), 2023 (<span style="color:red;">MICCAI CMRxRecon Challenge Winner</span>)</span>  
+<span style="font-size:14px; font-weight:lighter;">International Workshop on Statistical Atlases and Computational Models of the Heart (**STACOM@MICCAI**), 2023 (<span style="color:red;">MICCAI CMRxRecon 2023 Challenge Winner</span>)</span>  
 <span style="font-size:14px; font-weight:lighter;"><a href="https://arxiv.org/pdf/2309.13839.pdf" style="color:gray; text-decoration:underline;">Paper</a> · <a href="https://github.com/hellopipu/PromptMR" style="color:gray; text-decoration:underline;">Code</a></span>
 
 ---
