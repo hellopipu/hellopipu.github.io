@@ -24,7 +24,7 @@ Office: CBIM, 617 Bowser Rd, Piscataway, NJ 08854
 
 <span style="font-size:18px; font-weight:bold; font-style:italic;">Enhanced Deep Unrolled Models Applied to the CMRxRecon2024 Challenge</span>  
 <span style="font-size:16px; font-weight:normal;">**Bingyu Xin**, Meng Ye, Leon Axel, and Dimitris N. Metaxas</span>  
-<span style="font-size:14px; font-weight:lighter;">International Workshop on Statistical Atlases and Computational Models of the Heart (**STACOM@MICCAI**), 2024 (<span style="color:red;">MICCAI CMRxRecon 2024 Challenge Winner</span>)</span>  
+<span style="font-size:14px; font-weight:lighter;">Statistical Atlases and Computational Models of the Heart (**STACOM@MICCAI**), 2024 (<span style="color:red;">CMRxRecon24 Challenge Winner</span>)</span>  
 <span style="font-size:14px; font-weight:lighter;"><a href="https://github.com/hellopipu/PromptMR-plus" style="color:gray; text-decoration:underline;">Code</a></span>
 
 ---
@@ -39,7 +39,7 @@ Office: CBIM, 617 Bowser Rd, Piscataway, NJ 08854
 
 <span style="font-size:18px; font-weight:bold; font-style:italic;">Fill the K-Space and Refine the Image: Prompting for Dynamic and Multi-Contrast MRI Reconstruction</span>  
 <span style="font-size:16px; font-weight:normal;">**Bingyu Xin**, Meng Ye, Leon Axel, and Dimitris N. Metaxas</span>  
-<span style="font-size:14px; font-weight:lighter;">International Workshop on Statistical Atlases and Computational Models of the Heart (**STACOM@MICCAI**), 2023 (<span style="color:red;">MICCAI CMRxRecon 2023 Challenge Winner</span>)</span>  
+<span style="font-size:14px; font-weight:lighter;">Statistical Atlases and Computational Models of the Heart (**STACOM@MICCAI**), 2023 (<span style="color:red;">CMRxRecon23 Challenge Winner</span>)</span>  
 <span style="font-size:14px; font-weight:lighter;"><a href="https://arxiv.org/pdf/2309.13839.pdf" style="color:gray; text-decoration:underline;">Paper</a> · <a href="https://github.com/hellopipu/PromptMR" style="color:gray; text-decoration:underline;">Code</a></span>
 
 ---
