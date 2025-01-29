@@ -58,6 +58,11 @@ Office: CBIM, 617 Bowser Rd, Piscataway, NJ 08854
 
 ## Awards
 
-- 1st Place Award of the MICCAI CMRxRecon Challenge, 2024 <span style="font-size:inherit; font-weight:inherit;"><a href="https://github.com/hellopipu/PromptMR-plus" style="color:gray; text-decoration:underline;">[Code]</a> · <a href="https://www.cs.rutgers.edu/news-events/news/news-item/cs-ph-d-students-bingyu-xin-and-meng-ye-win-first-place-at-miccai-2024" style="color:gray; text-decoration:underline;">[News]</a></span>
-
-- 1st Place Award of the MICCAI CMRxRecon Challenge, 2023 <span style="font-size:inherit; font-weight:inherit;"><a href="https://github.com/hellopipu/PromptMR" style="color:gray; text-decoration:underline;">[Code]</a> · <a href="https://www.cs.rutgers.edu/news-events/news/news-item/ph-d-students-bingyu-xin-and-meng-ye-awarded-two-accolades-at-miccai-conference" style="color:gray; text-decoration:underline;">[News]</a></span>
+<ul style="list-style-position: inside; padding-left: 0;">
+  <li style="list-style-type: disc; margin-left: 1em;">
+    1st Place Award of the MICCAI CMRxRecon Challenge, 2024 <span style="font-size:inherit; font-weight:inherit;"><a href="https://github.com/hellopipu/PromptMR-plus" style="color:gray; text-decoration:underline;">[Code]</a> · <a href="https://www.cs.rutgers.edu/news-events/news/news-item/cs-ph-d-students-bingyu-xin-and-meng-ye-win-first-place-at-miccai-2024" style="color:gray; text-decoration:underline;">[News]</a></span>
+  </li>
+  <li style="list-style-type: disc; margin-left: 1em;">
+    1st Place Award of the MICCAI CMRxRecon Challenge, 2023 <span style="font-size:inherit; font-weight:inherit;"><a href="https://github.com/hellopipu/PromptMR" style="color:gray; text-decoration:underline;">[Code]</a> · <a href="https://www.cs.rutgers.edu/news-events/news/news-item/ph-d-students-bingyu-xin-and-meng-ye-awarded-two-accolades-at-miccai-conference" style="color:gray; text-decoration:underline;">[News]</a></span>
+  </li>
+</ul>
