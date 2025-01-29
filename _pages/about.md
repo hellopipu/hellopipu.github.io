@@ -57,5 +57,9 @@ Office: CBIM, 617 Bowser Rd, Piscataway, NJ 08854
 <span style="font-size:14px; font-weight:lighter;"><a href="https://ieeexplore.ieee.org/abstract/document/9098449/" style="color:gray; text-decoration:underline;">Paper</a> · <a href="https://github.com/hellopipu/TC-MGAN" style="color:gray; text-decoration:underline;">Code</a></span>
 
 ## Awards
-1st Place Award OF the MICCAI CMRxRecon Challenge, 2024 <span style="font-size:14px; font-weight:lighter;"><a href="https://github.com/hellopipu/PromptMR-plus" style="color:gray; text-decoration:underline;">[Code]</a> · <a href="https://www.cs.rutgers.edu/news-events/news/news-item/cs-ph-d-students-bingyu-xin-and-meng-ye-win-first-place-at-miccai-2024" style="color:gray; text-decoration:underline;">[News]</a></span>
-1st Place Award OF the MICCAI CMRxRecon Challenge, 2023 <span style="font-size:14px; font-weight:lighter;"><a href="https://github.com/hellopipu/PromptMR" style="color:gray; text-decoration:underline;">[Code]</a> · <a href="https://www.cs.rutgers.edu/news-events/news/news-item/ph-d-students-bingyu-xin-and-meng-ye-awarded-two-accolades-at-miccai-conference" style="color:gray; text-decoration:underline;">[News]</a></span>
+
+- **1st Place Award of the MICCAI CMRxRecon Challenge, 2024**  
+  <span style="font-size:inherit; font-weight:inherit;"><a href="https://github.com/hellopipu/PromptMR-plus" style="color:gray; text-decoration:underline;">[Code]</a> · <a href="https://www.cs.rutgers.edu/news-events/news/news-item/cs-ph-d-students-bingyu-xin-and-meng-ye-win-first-place-at-miccai-2024" style="color:gray; text-decoration:underline;">[News]</a></span>
+
+- **1st Place Award of the MICCAI CMRxRecon Challenge, 2023**  
+  <span style="font-size:inherit; font-weight:inherit;"><a href="https://github.com/hellopipu/PromptMR" style="color:gray; text-decoration:underline;">[Code]</a> · <a href="https://www.cs.rutgers.edu/news-events/news/news-item/ph-d-students-bingyu-xin-and-meng-ye-awarded-two-accolades-at-miccai-conference" style="color:gray; text-decoration:underline;">[News]</a></span>
