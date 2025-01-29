@@ -24,40 +24,40 @@ Office: CBIM, 617 Bowser Rd, Piscataway, NJ 08854
 
 <span style="font-size:18px; font-weight:bold; font-style:italic;">Enhanced Deep Unrolled Models Applied to the CMRxRecon2024 Challenge</span>  
 <span style="font-size:16px; font-weight:normal;">**Bingyu Xin**, Meng Ye, Leon Axel, and Dimitris N. Metaxas</span>  
-<span style="font-size:14px; font-weight:lighter;">Statistical Atlases and Computational Models of the Heart (**STACOM@MICCAI**), 2024</span>  
-<span style="font-size:14px; font-weight:lighter;"><a href="https://github.com/hellopipu/PromptMR-plus" style="color:gray; text-decoration:underline;">Code</a></span>
+<span style="font-size:14px; font-weight:normal;">Statistical Atlases and Computational Models of the Heart (**STACOM@MICCAI**), 2024</span>  
+<span style="font-size:14px; font-weight:normal;"><a href="https://github.com/hellopipu/PromptMR-plus" style="color:gray; text-decoration:underline;">Code</a></span>
 
 ---
 
 
 <span style="font-size:18px; font-weight:bold; font-style:italic;">Rethinking Deep Unrolled Model for Accelerated MRI Reconstruction</span>  
 <span style="font-size:16px; font-weight:normal;">**Bingyu Xin**, Meng Ye, Leon Axel, and Dimitris N. Metaxas</span>  
-<span style="font-size:14px; font-weight:lighter;">European Conference on Computer Vision (**ECCV**), 2024 (<span style="color:red;">Oral</span>)</span>  
-<span style="font-size:14px; font-weight:lighter;"><a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09565.pdf" style="color:gray; text-decoration:underline;">Paper</a> · <a href="https://github.com/hellopipu/PromptMR-plus" style="color:gray; text-decoration:underline;">Code</a></span>
+<span style="font-size:14px; font-weight:normal;">European Conference on Computer Vision (**ECCV**), 2024 (<span style="color:red;">Oral</span>)</span>  
+<span style="font-size:14px; font-weight:normal;"><a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09565.pdf" style="color:gray; text-decoration:underline;">Paper</a> · <a href="https://github.com/hellopipu/PromptMR-plus" style="color:gray; text-decoration:underline;">Code</a></span>
 
 ---
 
 <span style="font-size:18px; font-weight:bold; font-style:italic;">Fill the K-Space and Refine the Image: Prompting for Dynamic and Multi-Contrast MRI Reconstruction</span>  
 <span style="font-size:16px; font-weight:normal;">**Bingyu Xin**, Meng Ye, Leon Axel, and Dimitris N. Metaxas</span>  
-<span style="font-size:14px; font-weight:lighter;">Statistical Atlases and Computational Models of the Heart (**STACOM@MICCAI**), 2023</span>  
-<span style="font-size:14px; font-weight:lighter;"><a href="https://arxiv.org/pdf/2309.13839.pdf" style="color:gray; text-decoration:underline;">Paper</a> · <a href="https://github.com/hellopipu/PromptMR" style="color:gray; text-decoration:underline;">Code</a></span>
+<span style="font-size:14px; font-weight:normal;">Statistical Atlases and Computational Models of the Heart (**STACOM@MICCAI**), 2023</span>  
+<span style="font-size:14px; font-weight:normal;"><a href="https://arxiv.org/pdf/2309.13839.pdf" style="color:gray; text-decoration:underline;">Paper</a> · <a href="https://github.com/hellopipu/PromptMR" style="color:gray; text-decoration:underline;">Code</a></span>
 
 ---
 
 <span style="font-size:18px; font-weight:bold; font-style:italic;">Learned Half-Quadratic Splitting Network for MR Image Reconstruction</span>  
 <span style="font-size:16px; font-weight:normal;">**Bingyu Xin**, Timothy Phan, Leon Axel, and Dimitris Metaxas</span>  
-<span style="font-size:14px; font-weight:lighter;">International Conference on Medical Imaging with Deep Learning (**MIDL**), 2022</span>  
-<span style="font-size:14px; font-weight:lighter;"><a href="https://proceedings.mlr.press/v172/xin22a/xin22a.pdf" style="color:gray; text-decoration:underline;">Paper</a> · <a href="https://github.com/hellopipu/HQS-Net" style="color:gray; text-decoration:underline;">Code</a></span>
+<span style="font-size:14px; font-weight:normal;">International Conference on Medical Imaging with Deep Learning (**MIDL**), 2022</span>  
+<span style="font-size:14px; font-weight:normal;"><a href="https://proceedings.mlr.press/v172/xin22a/xin22a.pdf" style="color:gray; text-decoration:underline;">Paper</a> · <a href="https://github.com/hellopipu/HQS-Net" style="color:gray; text-decoration:underline;">Code</a></span>
 
 ---
 
 <span style="font-size:18px; font-weight:bold; font-style:italic;">Multi-modality Generative Adversarial Networks with Tumor Consistency Loss for Brain MR Image Synthesis</span>  
 <span style="font-size:16px; font-weight:normal;">**Bingyu Xin**, Yifan Hu, Yefeng Zheng, and Hongen Liao</span>  
-<span style="font-size:14px; font-weight:lighter;">IEEE International Symposium on Biomedical Imaging (**ISBI**), 2020</span>  
-<span style="font-size:14px; font-weight:lighter;"><a href="https://ieeexplore.ieee.org/abstract/document/9098449/" style="color:gray; text-decoration:underline;">Paper</a> · <a href="https://github.com/hellopipu/TC-MGAN" style="color:gray; text-decoration:underline;">Code</a></span>
+<span style="font-size:14px; font-weight:normal;">IEEE International Symposium on Biomedical Imaging (**ISBI**), 2020</span>  
+<span style="font-size:14px; font-weight:normal;"><a href="https://ieeexplore.ieee.org/abstract/document/9098449/" style="color:gray; text-decoration:underline;">Paper</a> · <a href="https://github.com/hellopipu/TC-MGAN" style="color:gray; text-decoration:underline;">Code</a></span>
 
 ## Awards
 
-1st Place Award of the MICCAI CMRxRecon Challenge, 2024 <span style="font-size:inherit; font-weight:inherit;"><a href="https://github.com/hellopipu/PromptMR-plus" style="color:gray; text-decoration:underline;">[Code]</a> · <a href="https://www.cs.rutgers.edu/news-events/news/news-item/cs-ph-d-students-bingyu-xin-and-meng-ye-win-first-place-at-miccai-2024" style="color:gray; text-decoration:underline;">[News]</a></span>
+<span style="font-size:16px; font-weight:normal;">1st Place Award of the MICCAI CMRxRecon Challenge, 2024</span> <span style="font-size:inherit; font-weight:inherit;"><a href="https://github.com/hellopipu/PromptMR-plus" style="color:gray; text-decoration:underline;">[Code]</a> · <a href="https://www.cs.rutgers.edu/news-events/news/news-item/cs-ph-d-students-bingyu-xin-and-meng-ye-win-first-place-at-miccai-2024" style="color:gray; text-decoration:underline;">[News]</a></span>
 
-1st Place Award of the MICCAI CMRxRecon Challenge, 2023 <span style="font-size:inherit; font-weight:inherit;"><a href="https://github.com/hellopipu/PromptMR" style="color:gray; text-decoration:underline;">[Code]</a> · <a href="https://www.cs.rutgers.edu/news-events/news/news-item/ph-d-students-bingyu-xin-and-meng-ye-awarded-two-accolades-at-miccai-conference" style="color:gray; text-decoration:underline;">[News]</a></span>
+<span style="font-size:16px; font-weight:normal;">1st Place Award of the MICCAI CMRxRecon Challenge, 2023</span> <span style="font-size:inherit; font-weight:inherit;"><a href="https://github.com/hellopipu/PromptMR" style="color:gray; text-decoration:underline;">[Code]</a> · <a href="https://www.cs.rutgers.edu/news-events/news/news-item/ph-d-students-bingyu-xin-and-meng-ye-awarded-two-accolades-at-miccai-conference" style="color:gray; text-decoration:underline;">[News]</a></span>
