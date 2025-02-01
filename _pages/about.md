@@ -80,6 +80,6 @@ Office: CBIM, 617 Bowser Rd, Piscataway, NJ 08854
 
 <div style="font-size:16px; font-weight:normal; margin-bottom: 8px;">
   <span style="font-style:italic;">Adaptive Unrolling Applied to the Accelerated Cardiac MRI Reconstruction</span>
+  , at 28th Annual Scientific Sessions of the Society for Cardiovascular Magnetic Resonance (SCMR), 2025
   <a href="https://drive.google.com/file/d/14zeAnzL3lw58WT9fYtSK91XmItBpXZiz/view?usp=sharing" style="color:gray; text-decoration:underline;">[PDF]</a>
-  28th Annual Scientific Sessions of the Society for Cardiovascular Magnetic Resonance (SCMR), 2025
 </div>
