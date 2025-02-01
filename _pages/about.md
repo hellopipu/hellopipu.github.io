@@ -73,6 +73,6 @@ Office: CBIM, 617 Bowser Rd, Piscataway, NJ 08854
 ## Invited Talks
 
 <div style="font-size:16px; font-weight:normal; margin-bottom: 8px;">
-  SCMR 2025, <span style="font-size:18px; font-weight:bold; font-style:italic;">Adaptive Unrolling Applied to the Accelerated Cardiac MRI Reconstruction</span>
+  SCMR 2025, <span style= font-style:italic;">Adaptive Unrolling Applied to the Accelerated Cardiac MRI Reconstruction</span>
   <a href="https://drive.google.com/file/d/14zeAnzL3lw58WT9fYtSK91XmItBpXZiz/view?usp=sharing" style="color:gray; text-decoration:underline;">[PDF]</a>
 </div>
