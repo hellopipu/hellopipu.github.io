@@ -62,6 +62,14 @@ Office: CBIM, 617 Bowser Rd, Piscataway, NJ 08854
 <span style="font-size:14px; font-weight:normal;">IEEE International Symposium on Biomedical Imaging (**ISBI**), 2020</span>  
 <span style="font-size:14px; font-weight:normal;"><a href="https://ieeexplore.ieee.org/abstract/document/9098449/" style="color:gray; text-decoration:underline;">Paper</a> · <a href="https://github.com/hellopipu/TC-MGAN" style="color:gray; text-decoration:underline;">Code</a></span>
 
+## Invited Talks
+
+<div style="font-size:16px; font-weight:normal; margin-bottom: 8px;">
+  <span style="font-style:italic;">Adaptive Unrolling Applied to the Accelerated Cardiac MRI Reconstruction</span>
+  , at 28th Annual Scientific Sessions of the Society for Cardiovascular Magnetic Resonance (SCMR), 2025
+  <a href="https://drive.google.com/file/d/14zeAnzL3lw58WT9fYtSK91XmItBpXZiz/view?usp=sharing" style="color:gray; text-decoration:underline;">[PDF]</a>
+</div>
+
 ## Awards
 
 <div style="font-size:16px; font-weight:normal; margin-bottom: 8px;">
@@ -76,10 +84,4 @@ Office: CBIM, 617 Bowser Rd, Piscataway, NJ 08854
   <a href="https://www.cs.rutgers.edu/news-events/news/news-item/ph-d-students-bingyu-xin-and-meng-ye-awarded-two-accolades-at-miccai-conference" style="color:gray; text-decoration:underline;">[News]</a>
 </div>
 
-## Invited Talks
 
-<div style="font-size:16px; font-weight:normal; margin-bottom: 8px;">
-  <span style="font-style:italic;">Adaptive Unrolling Applied to the Accelerated Cardiac MRI Reconstruction</span>
-  , at 28th Annual Scientific Sessions of the Society for Cardiovascular Magnetic Resonance (SCMR), 2025
-  <a href="https://drive.google.com/file/d/14zeAnzL3lw58WT9fYtSK91XmItBpXZiz/view?usp=sharing" style="color:gray; text-decoration:underline;">[PDF]</a>
-</div>
