@@ -22,6 +22,13 @@ Office: CBIM, 617 Bowser Rd, Piscataway, NJ 08854
 
 <!-- add new paper below here -->
 
+<span style="font-size:18px; font-weight:bold; font-style:italic;">Efficient and Effective Control Adapters for Diffusion Plug-and-Play models: A DWI Application</span>  
+<span style="font-size:16px; font-weight:normal;">**Bingyu Xin**<sup>*</sup>, Radu Miron<sup>*</sup>, Mahmoud Mostapha, Nirmal Janardhanan, Omar Darwish, Till Huelnhagen, Tobias Wuerfl, David Grodzki, Rainer Schneider, Mariappan S. Nadar</span>  
+<span style="font-size:14px; font-weight:normal;">Proceedings of the International Society for Magnetic Resonance in Medicine (**ISMRM**), 2025</span>  
+<span style="font-size:14px; font-weight:normal;"><a href="https://github.com/hellopipu/PromptMR-plus" style="color:gray; text-decoration:underline;">Code</a></span>
+
+---
+
 <span style="font-size:18px; font-weight:bold; font-style:italic;">Enhanced Deep Unrolled Models Applied to the CMRxRecon2024 Challenge</span>  
 <span style="font-size:16px; font-weight:normal;">**Bingyu Xin**, Meng Ye, Leon Axel, and Dimitris N. Metaxas</span>  
 <span style="font-size:14px; font-weight:normal;">Statistical Atlases and Computational Models of the Heart (**STACOM@MICCAI**), 2024 (**Oral**)</span>  
