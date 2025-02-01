@@ -16,7 +16,7 @@ I'm a Ph.D. student of the <a href="https://www.cs.rutgers.edu/" style="color:bl
 Contact: bx64@rutgers.edu<br>
 Office: CBIM, 617 Bowser Rd, Piscataway, NJ 08854
 
-## Selected Publications
+## Publications
 
 <a href="https://scholar.google.com/citations?user=ENG4A1gAAAAJ&hl=en&authuser=1" style="color:gray; text-decoration:none; font-weight:bold;">Google Scholar Profile</a>
 
