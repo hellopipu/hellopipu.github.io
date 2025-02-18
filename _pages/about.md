@@ -19,17 +19,16 @@ redirect_from:
             I'm also interested in <u>Generative AI</u> for medical imaging.
             Previously, I received my master's degree from Tsinghua University in 2020 and my bachelor's degree from Wuhan University in 2017.
         </p>
-        <p>
-            <b>Contact:</b> bx64@rutgers.edu<br>
-            <b>Office:</b> CBIM, 617 Bowser Rd, Piscataway, NJ 08854
-        </p>
     </div>
-
     <div style="flex-shrink: 0; margin-left: 20px;">
         <img src="{{ site.baseurl }}/images/photo.jpg" alt="Bingyu Xin" style="width: 150px; height: auto; border-radius: 10px;">
     </div>
 </div>
 
+<p>
+    <b>Contact:</b> bx64@rutgers.edu<br>
+    <b>Office:</b> CBIM, 617 Bowser Rd, Piscataway, NJ 08854
+</p>
 
 ## Publications
 
