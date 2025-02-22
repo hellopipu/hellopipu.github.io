@@ -20,7 +20,7 @@ redirect_from:
         </p>
     </div>
     <div style="flex-shrink: 0; margin-left: 20px;">
-        <img src="{{ site.baseurl }}/images/photo.jpg" alt="Bingyu Xin" style="width: 150px; height: auto; border-radius: 10px;">
+        <img src="{{ site.baseurl }}/images/photo.jpg" alt="Bingyu Xin" style="width: 100px; height: auto; border-radius: 10px;">
     </div>
 </div>
 
